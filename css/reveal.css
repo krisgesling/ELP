@@ -1589,3 +1589,10 @@ body {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+
+/*********** KRIS STYLES ***********/
+.reveal section img.no-bg {
+  background: none;
+  border: none;
+  box-shadow: none;
+}
